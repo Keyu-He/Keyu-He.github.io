@@ -18,11 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**!!!This personal website is still under development. Please check back later for more information.!!!**
-
 Hi! I am Keyu, a senior undergraduate student double majoring in **Computer Science** and **Applied & Computational Mathematics** at the University of Southern California ([USC](https://www.usc.edu/)), with a minor in **Artificial Intelligence Applications**.
 
-Passionate about Natural Language Processing (NLP), I’m fascinated by its potential to bridge communication gaps and foster understanding. At USC, I am currently working on cutting-edge NLP research under Professors Xiang Ren and Swabha Swayamdipta, under the mentorship of Brihi Joshi. My work focuses on **explainability, cultural inclusivity, and building user trust** in AI systems.
+Passionate about Natural Language Processing (NLP), I’m fascinated by its potential to bridge communication gaps and foster understanding. At USC, I am currently working on cutting-edge NLP research under Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), under the mentorship of [Brihi Joshi](https://brihijoshi.github.io/). My work focuses on **explainability, cultural inclusivity, and building user trust** in AI systems.
 
 ### Academic Achievements & Honors
 - **USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow**.
