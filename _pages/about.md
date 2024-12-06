@@ -20,13 +20,15 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I am Keyu, a senior undergraduate student double majoring in **Computer Science** and **Applied & Computational Mathematics** at the University of Southern California ([USC](https://www.usc.edu/)), with a minor in **Artificial Intelligence Applications**.
 
-Passionate about Natural Language Processing (NLP), I’m fascinated by its potential to bridge communication gaps and foster understanding. At USC, I am currently working on cutting-edge NLP research under Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), under the mentorship of [Brihi Joshi](https://brihijoshi.github.io/). My work focuses on **explainability, cultural inclusivity, and building user trust** in AI systems.
+Passionate about Natural Language Processing (NLP), I’m fascinated by its potential to bridge communication gaps and foster understanding. I am currently working on NLP research as a member of the [INK Lab](https://inklab.usc.edu/) and [DILL Lab](https://dill-lab.github.io/), under the guidance of Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), and the mentorship of [Brihi Joshi](https://brihijoshi.github.io/). My work focuses on **explainability and building user trust** in AI systems.
 
 ### Academic Achievements & Honors
 - **USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow**.
-- **USC Dornsife Dean’s List**: Every semester since Fall 2021.
-- **USC Viterbi Dean's List**: Every semester since Spring 2022.
-- **Phi Kappa Phi Honor Society Member**.
+  - Fellowship awarded multiple times (Spring 2024, Summer 2024, and Fall 2024), with a total funding amount of $5,500.
+- **USC Academic Achievement Award**: Fall 2022, Spring 2023, Spring 2024, Fall 2024. 
+  - This award covered 11 units of tuition costs in total, amounting to approximately $24,000.
+- **USC Dornsife Dean’s List & USC Viterbi Dean's List**: 2021-2024.
+- **4th Place, USC Integral Bee Competition**: 2022.
 
 ### Current Research
 - **Explainable NLP Systems**: Collaborating on projects to align model-generated explanations with audience needs, emphasizing readability and cultural inclusivity.
