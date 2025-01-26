@@ -46,33 +46,37 @@
       ]
     }
   ],
-  // "research_experience": [
-  //   {
-  //     "name": "USC Viterbi School of Engineering",
-  //     "position": "Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellow",
-  //     "url": "https://viterbi.usc.edu/",
-  //     "startDate": "2024-01-01",
-  //     "summary": "Contributing to research on audience-specific explanations and trustworthiness of language model rationales.",
-  //     "highlights": [
-  //       "Conducted quantitative analysis of 'Why' question explanations using lexical and semantic metrics.",
-  //       "Evaluated alignment of explanations with user roles in curiosity-driven scenarios.",
-  //       "Engaged in interdisciplinary workshops on cognitive science and NLP to refine methodologies.",
-  //       "Awarded CURVE fellowship multiple times, with total funding of $5,500."
-  //     ]
-  //   },
-  //   {
-  //     "name": "USC Viterbi School of Engineering",
-  //     "position": "Research Contributor on Visual Language Models (VLM) Project",
-  //     "url": "https://viterbi.usc.edu/",
-  //     "startDate": "2024-06-01",
-  //     "summary": "Focused on assessing user trust in visual language model explanations.",
-  //     "highlights": [
-  //       "Developed tools to evaluate faithfulness, relevance, and completeness of explanations.",
-  //       "Conducted automatic and human evaluations to identify limitations of text-only metrics.",
-  //       "Explored new vision-specific metrics for better evaluation of VLM rationales."
-  //     ]
-  //   }
-  // ],
+  "publications": [
+    {
+      "name": "Assessing Language Models’ Capability to Explain to Different Audiences",
+      "author": "Brihi Joshi*, <b>Keyu He*</b> , Kaitlyn Zhou, Sadra Sabouri Halestani, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren",
+      "publisher": "(in preparation for ACL submission)",
+      "releaseDate": "2025-01",
+      "summary": "Explores how GPT-generated explanations vary in text complexity and alignment with user roles in curiosity-driven scenarios."
+    },
+    {
+      "name": "Beyond the Text: How Explanation Qualities Influence User Trust in Visual Language Models",
+      "author": "Keyu He, Brihi Joshi, Tejas Srinivasan, Swabha Swayamdipta",
+      "publisher": "(in preparation for ACL submission)",
+      "releaseDate": "2025-01",
+      "summary": "Identify limitations of current text-only metric and explore new vision-specific qualities to improve trust in explanations by VLMs."
+    },
+    {
+      "name": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
+      "author": "Huihan Li*, Arnav Goel*, Keyu He, Xiang Ren",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2025-01",
+      "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols."
+    },
+    {
+      "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
+      "author": "Keyu He*,  Max Li*, and  <b>Joseph Liu*</b>",
+      "publisher": "Technical Report",
+      "releaseDate": "2023-12",
+      "url": "../assets/pdf/Enhancing-Debugging.pdf",
+      "summary": ""
+    }
+  ],
   "projects": [
     // {
     //   "name": "Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellow",
