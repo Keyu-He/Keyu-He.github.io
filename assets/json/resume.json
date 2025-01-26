@@ -66,7 +66,8 @@
       "author": "Huihan Li*, Arnav Goel*, Keyu He, Xiang Ren",
       "publisher": "ICLR 2025",
       "releaseDate": "2025-01",
-      "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols."
+      "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.",
+      "url": "https://arxiv.org/pdf/2412.20760"
     },
     {
       "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
@@ -78,27 +79,6 @@
     }
   ],
   "projects": [
-    // {
-    //   "name": "Center for Undergraduate Research in Viterbi Engineering (CURVE) Fellow",
-    //   "startDate": "2024-01-01",
-    //   "summary": "Contributing to research on audience-specific explanations and trustworthiness of language model rationales.",
-    //   "highlights": [
-    //     "Conducted quantitative analysis of 'Why' question explanations using lexical and semantic metrics.",
-    //     "Evaluated alignment of explanations with user roles in curiosity-driven scenarios.",
-    //     "Engaged in interdisciplinary workshops on cognitive science and NLP to refine methodologies.",
-    //     "Awarded CURVE fellowship multiple times, with total funding of $5,500."
-    //   ]
-    // },
-    // {
-    //   "name": "Research Contributor on Visual Language Models (VLM) Project",
-    //   "startDate": "2024-06-01",
-    //   "summary": "Focused on assessing user trust in visual language model explanations.",
-    //   "highlights": [
-    //     "Developed tools to evaluate faithfulness, relevance, and completeness of explanations.",
-    //     "Conducted automatic and human evaluations to identify limitations of text-only metrics.",
-    //     "Explored new vision-specific metrics for better evaluation of VLM rationales."
-    //   ]
-    // },
     {
       "name": "LLM Prompt Recovery",
       "summary": "Developed a system to recover user prompts using fine-tuned Mixtral models, achieving top 3.4% in a Kaggle competition.",

@@ -40,6 +40,10 @@ nav_order: 6
 - **Grader**:  
   - *MATH-129 (Calculus II for Engineers and Scientists)*
 
+#### Spring 2025
+- **Grader**:  
+  - *MATH-126 (Calculus II)*
+
 ### Key Contributions
 - Collaborated with faculty and fellow graders to maintain consistent teaching and grading standards.
 - Assisted students in understanding course materials, fostering an engaging and supportive learning environment.
