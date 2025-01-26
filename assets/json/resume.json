@@ -67,7 +67,7 @@
       "publisher": "ICLR 2025",
       "releaseDate": "2025-01",
       "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.",
-      "url": "https://arxiv.org/pdf/2412.20760"
+      "url": "../assets/pdf/2412.20760v1.pdf"
     },
     {
       "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
