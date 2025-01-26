@@ -24,8 +24,8 @@ Passionate about Natural Language Processing (NLP), I’m fascinated by its pote
 
 ### Academic Achievements & Honors
 - **USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow**.
-  - Fellowship awarded multiple times (Spring 2024, Summer 2024, and Fall 2024), with a total funding amount of $5,500.
-- **USC Academic Achievement Award**: Fall 2022, Spring 2023, Spring 2024, Fall 2024. 
+  - Fellowship awarded multiple times (Spring 2024 -- Spring 2025), with a total funding amount of $6,750.
+- **USC Academic Achievement Award**: Fall 2022 - Fall 2024. 
   - This award covered 11 units of tuition costs in total, amounting to approximately $24,000.
 - **USC Dornsife Dean’s List & USC Viterbi Dean's List**: 2021-2024.
 - **4th Place, USC Integral Bee Competition**: 2022.
