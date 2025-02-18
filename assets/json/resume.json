@@ -48,17 +48,18 @@
   ],
   "publications": [
     {
-      "name": "Assessing Language Models’ Capability to Explain to Different Audiences",
-      "author": "Brihi Joshi*, <b>Keyu He*</b> , Kaitlyn Zhou, Sadra Sabouri Halestani, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren",
-      "publisher": "(in preparation for ACL submission)",
-      "releaseDate": "2025-01",
-      "summary": "Explores how GPT-generated explanations vary in text complexity and alignment with user roles in curiosity-driven scenarios."
+      "name": "ELI-Why: Evaluating the Pedagogical Utility of LLM Explanations",
+      "author": "Brihi Joshi*, <b>Keyu He*</b>, Sahana Ramnath, Sadra Sabouri, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren",
+      "publisher": "Submitted to ACL 2025",
+      "releaseDate": "2025-02",
+      "summary": "Evaluate the pedagogical utility of LLMs in tailoring explanations to users with different educational backgrounds.",
+      "url": "../assets/pdf/ELI_Why_Evaluating_the_Pe.pdf"
     },
     {
       "name": "Beyond the Text: How Explanation Qualities Influence User Trust in Visual Language Models",
       "author": "Keyu He, Brihi Joshi, Tejas Srinivasan, Swabha Swayamdipta",
-      "publisher": "(in preparation for ACL submission)",
-      "releaseDate": "2025-01",
+      "publisher": "(in preparation for COLM submission)",
+      "releaseDate": "2025-02",
       "summary": "Identify limitations of current text-only metric and explore new vision-specific qualities to improve trust in explanations by VLMs."
     },
     {
@@ -67,7 +68,7 @@
       "publisher": "ICLR 2025",
       "releaseDate": "2025-01",
       "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.",
-      "url": "../assets/pdf/2412.20760v1.pdf"
+      "url": "../assets/pdf/Attributing_Culture_Cond.pdf"
     },
     {
       "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
