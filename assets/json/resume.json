@@ -58,7 +58,7 @@
     {
       "name": "Beyond the Text: How Explanation Qualities Influence User Trust in Visual Language Models",
       "author": "Keyu He, Brihi Joshi, Tejas Srinivasan, Swabha Swayamdipta",
-      "publisher": "(in preparation for COLM submission)",
+      "publisher": "(in preparation for NeurIPS submission)",
       "releaseDate": "2025-02",
       "summary": "Identify limitations of current text-only metric and explore new vision-specific qualities to improve trust in explanations by VLMs."
     },
