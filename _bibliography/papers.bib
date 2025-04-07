@@ -6,11 +6,11 @@
   author={Huihan Li* and Arnav Goel* and Keyu He and Xiang Ren},
   year={2025},
   journal={ICLR},
-  abstract={This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.},
+  abstract={In open-ended generative tasks like narrative writing or dialogue, large language models often exhibit cultural biases, showing limited knowledge and generating templated outputs for less prevalent cultures. Recent works show that these biases may stem from uneven cultural representation in pretraining corpora. This work investigates how pretraining leads to biased culture-conditioned generations by analyzing how models associate entities with cultures based on pretraining data patterns. We propose the MEMOed framework (MEMOrization from pretraining document) to determine whether a generation for a culture arises from memorization. Using MEMOed on culture-conditioned generations about food and clothing for 110 cultures, we find that high-frequency cultures in pretraining data yield more generations with memorized symbols, while some low-frequency cultures produce none. Additionally, the model favors generating entities with extraordinarily high frequency regardless of the conditioned culture, reflecting biases toward frequent pretraining terms irrespective of relevance. We hope that the MEMOed framework and our insights will inspire more works on attributing model performance on pretraining data.},
   selected={true},
   url={https://arxiv.org/pdf/2412.20760},
   doi={10.48550/arXiv.2412.20760},
-  pdf={2412.20760v1.pdf}
+  pdf={Attributing_Culture_Cond.pdf}
 }
 
 @article{keyu2025explanations,
@@ -18,7 +18,7 @@
   author={Brihi Joshi* and Keyu He* and Sahana Ramnath and Sadra Sabouri and Kaitlyn Zhou and Souti Chattopadhyay and Swabha Swayamdipta and Xiang Ren},
   year={2025},
   journal={Submitted to ACL, Under review},
-  abstract={Evaluate the pedagogical utility of LLMs in tailoring explanations to users with different educational backgrounds.},
+  abstract={Language models today are widely used in education, yet their ability to tailor responses for learners with varied informational needs and knowledge backgrounds remains under-explored. To this end, we introduce ELI-WHY, a benchmark of 13.4K "Why" questions to assess the pedagogical capabilities of LLMs. We then conduct two extensive human studies to assess the utility of LLM-generated explanatory answers (explanations) on our benchmark, tailored to three distinct educational grades: elementary, high-school, and graduate school. In our first study, human raters assume the role of an "educator" to assess model explanations' fit to different educational grades. We find that GPT-4-generated explanations match their intended educational background only 50% of the time, compared to 79% for human-curated explanations. In our second study, human raters assume the role of a learner to assess if an explanation fits their own informational needs. Results show that users deemed GPT-4-generated explanations relatively 20% less suited to their informational needs, particularly for advanced learners. Additionally, automated evaluation metrics reveal that GPT-4 explanations for different informational needs remain indistinguishable in their grade-level, limiting their pedagogical effectiveness. These findings suggest that LLMs' ability to follow inference-time instructions alone is insufficient for producing high-utility explanations tailored to users' informational needs.},
   selected={true},
   pdf={ELI_Why_Evaluating_the_Pe.pdf}
 }
@@ -28,7 +28,7 @@
   author={Keyu He and Brihi Joshi and Tejas Srinivasan and Swabha Swayamdipta},
   year={2025},
   journal={Under preparation for NeurIPS},
-  abstract={Identify limitations of current text-only metric and explore new vision-specific qualities to improve trust in explanations by VLMs.},
+  abstract={Visual Language Models (VLMs) are deployed in scenarios where users lack direct access to visual stimuli, such as remote sensing, robotics, and assistance for people with visual impairments. Despite their utility, these models can produce hallucinated outputs that may mislead users. In this work, we investigate the role of explanation quality in calibrating user trust and reliance on VLM outputs. We propose new qualities, Visual Fidelity and Contrastiveness, to complement traditional text-only measures. Through quantitative evaluations on A-OKVQA and VizWiz datasets and a user study, our results indicate that explanations enriched with quality signals lead to a lower unsure rate and improved prediction accuracy and utility in AI-assisted decision-making. We also highlight limitations and future directions to further enhance the interpretability and reliability of VLM-generated rationales.},
   selected={true}
 }
 
