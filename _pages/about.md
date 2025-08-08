@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m Keyu He, a Master of Intelligent Information Systems ([MIIS](https://miis.cs.cmu.edu/)) student at Carnegie Mellon University ([CMU](https://www.cmu.edu/)). Previously, I earned my B.S. from the University of Southern California ([USC](https://www.usc.edu/)), where I double‑majored in **Computer Science** and **Applied & Computational Mathematics** and minored in **Artificial Intelligence Applications**.
 
-Passionate about Natural Language Processing ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing)), I’m fascinated by its potential to bridge communication gaps and foster understanding. I worked on NLP research as a member of the [INK Lab](https://inklab.usc.edu/) and [DILL Lab](https://dill-lab.github.io/), under the guidance of Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), and the mentorship of [Brihi Joshi](https://brihijoshi.github.io/). My work focuses on **explainability and building user trust** in AI systems.
+Passionate about AI systems that can meaningfully interact with humans and enhance learning experiences. At CMU, I'm collaborating with PhD students [Qianou Ma](https://qianouma.com/en/about.html) and [Xuhui Zhou](https://xuhuiz.com/) on research in **socially intelligent AI and AI applications in education**. Previously at USC, I conducted NLP research as a member of the [INK Lab](https://inklab.usc.edu/) and [DILL Lab](https://dill-lab.github.io/), under the guidance of Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), with mentorship from [Brihi Joshi](https://brihijoshi.github.io/) and [Tejas Srinivasan](https://tejas1995.github.io/).
 
 ### Academic Achievements & Honors
 
@@ -33,8 +33,8 @@ Passionate about Natural Language Processing ([NLP](https://en.wikipedia.org/wik
 
 ### Current Research
 
-- **Explainable NLP Systems**: Collaborating on projects to align model-generated explanations with audience needs, emphasizing readability and cultural inclusivity.
-- **Trust in Visual Language Models (VLMs)**: Designing metrics to evaluate explanation trustworthiness, especially for users with limited access to visual contexts.
+- **Socially Intelligent AI**: Developing methods to find and generate datasets of AI social scenarios with verifiable rewards, then applying reinforcement learning to train models that improve their social interaction abilities.
+- **AI for Education**: Creating AI-powered tools and assessment methods to evaluate users' prompt engineering skills and proficiency in "vibe programming" with large language models.
 
 ### Beyond Research
 
