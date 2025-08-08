@@ -73,34 +73,7 @@ layout: default
       </div>
     {% endif %}
 
-    <!-- Visitor Analytics -->
-    {% if site.visitor_map.enabled %}
-      <div class="visitor-analytics" style="margin-top: 1.5rem; text-align: center;">
-        <!-- Simple Welcome Message -->
-        <div class="visitor-counter" style="margin-bottom: 1rem;">
-          <p style="color: #666; font-size: 0.9rem;">
-            <i class="fa-solid fa-heart" style="margin-right: 0.5rem;"></i>
-            Thank you for visiting!
-          </p>
-        </div>
-        
-        <!-- Admin-Only Detailed Analytics -->
-        <details style="margin-top: 1rem;">
-          <summary style="cursor: pointer; font-size: 1.0rem; color: #999; font-style: italic;">Visitor Map</summary>
-          <div id="admin-analytics" style="margin-top: 1rem; opacity: 0.8;">
-            <script>
-              // Development only
-              if (window.location.hostname === 'localhost' || 
-                  window.location.hostname === '127.0.0.1') {
-                document.write('<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=VGq-6ngx9SQOzI4uqqrGzo8741s606-66KR_dTZ9b00&cl=ffffff&w=a"><\/script>');
-              } else {
-                document.write('<p style="color: #ccc; font-size: 0.8rem;">Development only</p>');
-              }
-            </script>
-          </div>
-        </details>
-      </div>
-    {% endif %}
+
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
