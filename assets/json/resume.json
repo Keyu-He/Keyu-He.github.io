@@ -1,20 +1,31 @@
 {
   "basics": {
     "name": "Keyu He",
-    "label": "Student, Undergraduate Researcher",
-    "image": "",
-    "email": "frankhe@usc.edu",
+    "label": "MIIS Graduate Student, NLP Researcher",
+    "image": "keyu.jpg",
+    "email": "keyuhe@cmu.edu",
     "phone": "(213) 713-2973",
     "url": "https://keyu-he.github.io/",
-    "summary": "Undergraduate double major in Computer Science and Applied & Computational Mathematics with a minor in Artificial Intelligence Applications. Passionate about explainable NLP systems, interpretable machine learning, and cross-disciplinary AI research.",
+    "summary": "Master of Intelligent Information Systems (MIIS) student at Carnegie Mellon University. Previously earned B.S. from USC with double major in Computer Science and Applied & Computational Mathematics. Passionate about explainable NLP systems, building user trust in AI, and cross-disciplinary AI research.",
     "location": {
-      "city": "Los Angeles",
-      "region": "California",
+      "city": "Pittsburgh",
+      "region": "Pennsylvania",
       "countryCode": "US"
     },
     "profiles": []
   },
   "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.cmu.edu/",
+      "area": "Master of Intelligent Information Systems (MIIS)",
+      "studyType": "Master's",
+      "startDate": "2025-08-01",
+      "endDate": "2027-05-01",
+      "score": "",
+      "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI."
+    },
     {
       "institution": "University of Southern California",
       "location": "Los Angeles, CA",
@@ -24,30 +35,21 @@
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
       "score": "GPA: 3.98/4.00",
-      "summary": "Minor in Artificial Intelligence Applications. Dean’s List every semester and member of Phi Kappa Phi Honor Society.",
+      "summary": "Minor in Artificial Intelligence Applications. USC Dornsife Dean's List & USC Viterbi Dean's List (2021-2025). USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow with $6,750 in research funding (Spring 2024 - Spring 2025). USC Academic Achievement Award covering $24,000 in tuition.",
       "courses": [
         "Language Models in Natural Language Processing (A)",
         "Applied Machine Learning for Natural Language Processing (A)",
-        "Introduction to Machine Learning (A)",
         "Applications of Machine Learning (A)",
-        "Professional C++ (A)",
-        "Introduction to Artificial Intelligence (A)",
         "Applied Neural Networks (A)",
+        "Introduction to Artificial Intelligence (A)",
         "Capstone: Design and Construction of Large Software Systems (A)",
         "Software Engineering (A)",
-        "Video Game Programming (A)",
-        "Introduction to Data Analysis (A)",
-        "Introduction to Computer Systems (A)",
-        "Introduction to Embedded Systems (A)",
-        "Introduction to Operating Systems (A)",
-        "Introduction to Internetworking (A)",
-        "Data Structure and Object-Oriented Design (A)",
-        "Introduction to Algorithms and the Theory of Computing (A-)",
-        "Linear Algebra and Differential Equations (A)",
-        "Probability Theory (A)",
         "Mathematical Statistics (A)",
+        "Probability Theory (A)",
+        "Linear Algebra and Differential Equations (A)",
         "Numerical Methods (A)",
-        "Advanced Writing Communication for Engineers (A)"
+        "Data Structure and Object-Oriented Design (A)",
+        "Introduction to Algorithms and the Theory of Computing (A-)"
       ]
     }
   ],
@@ -55,7 +57,7 @@
     {
       "name": "ELI-Why: Evaluating the Pedagogical Utility of LLM Explanations",
       "author": "Brihi Joshi*, <b>Keyu He*</b>, Sahana Ramnath, Sadra Sabouri, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren",
-      "publisher": "ACL Findings",
+      "publisher": "Findings of ACL 2025",
       "releaseDate": "2025-02",
       "summary": "Evaluate the pedagogical utility of LLMs in tailoring explanations to users with different educational backgrounds.",
       "url": "../assets/pdf/ELI_Why_Evaluating_the_Pe.pdf"
@@ -81,7 +83,7 @@
       "publisher": "Technical Report",
       "releaseDate": "2023-12",
       "url": "../assets/pdf/Enhancing-Debugging.pdf",
-      "summary": ""
+      "summary": "Study on improving LLM debugging through prompt engineering techniques. Evaluated few-shot learning and chain-of-thought approaches on GPT-3.5, revealing limitations in current debugging capabilities."
     }
   ],
   "projects": [
