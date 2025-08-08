@@ -73,6 +73,18 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Visitor Map -->
+    {% if site.visitor_map.enabled %}
+      <div class="visitor-map" style="text-align: center; margin-top: 2rem;">
+        <h2>visitor map</h2>
+        <div id="visitor-map-widget">
+          <!-- MapMyVisitors widget will be inserted here -->
+          <!-- To get your widget code, visit https://mapmyvisitors.com/add -->
+          <!-- Replace this comment with your MapMyVisitors embed code -->
+        </div>
+      </div>
+    {% endif %}
+
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
