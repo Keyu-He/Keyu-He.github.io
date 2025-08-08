@@ -72,18 +72,9 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-     <!-- Visitor Analytics (local only) -->
-     {% if site.visitor_map.enabled and jekyll.environment == 'development' %}
-       <div class="visitor-analytics" style="margin-top: 1.5rem; text-align: center;">
-         <details style="margin-top: 1rem;">
-           <summary style="cursor: pointer; font-size: 1.0rem; color: #999; font-style: italic;">Visitor Map</summary>
-           <div id="admin-analytics" style="margin-top: 1rem; opacity: 0.8;">
-             <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=VGq-6ngx9SQOzI4uqqrGzo8741s606-66KR_dTZ9b00&cl=ffffff&w=a"></script>
-           </div>
-         </details>
-       </div>
-     {% endif %}
- 
+
+
+
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
