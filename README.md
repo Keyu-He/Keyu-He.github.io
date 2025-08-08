@@ -7,4 +7,3 @@ $ bundle exec jekyll serve
 
 Deployment:
 This site is automatically deployed when changes are pushed to the `main` branch.
-

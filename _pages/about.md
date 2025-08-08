@@ -23,18 +23,21 @@ Hi! I’m Keyu He, a Master of Intelligent Information Systems ([MIIS](https://m
 Passionate about Natural Language Processing ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing)), I’m fascinated by its potential to bridge communication gaps and foster understanding. I worked on NLP research as a member of the [INK Lab](https://inklab.usc.edu/) and [DILL Lab](https://dill-lab.github.io/), under the guidance of Professors [Xiang Ren](https://www.seanre.com/) and [Swabha Swayamdipta](https://swabhs.com/), and the mentorship of [Brihi Joshi](https://brihijoshi.github.io/). My work focuses on **explainability and building user trust** in AI systems.
 
 ### Academic Achievements & Honors
+
 - **USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow**.
   - Fellowship awarded multiple times (Spring 2024 -- Spring 2025), with a total funding amount of $6,750.
-- **USC Academic Achievement Award**: Fall 2022 - Fall 2024. 
+- **USC Academic Achievement Award**: Fall 2022 - Fall 2024.
   - This award covered 11 units of tuition costs in total, amounting to approximately $24,000.
 - **USC Dornsife Dean’s List & USC Viterbi Dean's List**: 2021-2025.
 - **4th Place, USC Integral Bee Competition**: 2022.
 
 ### Current Research
+
 - **Explainable NLP Systems**: Collaborating on projects to align model-generated explanations with audience needs, emphasizing readability and cultural inclusivity.
 - **Trust in Visual Language Models (VLMs)**: Designing metrics to evaluate explanation trustworthiness, especially for users with limited access to visual contexts.
 
 ### Beyond Research
-As a Course Producer and grader for multiple computer science and math courses, I’ve mentored peers and fostered inclusive learning environments. 
+
+As a Course Producer and grader for multiple computer science and math courses, I’ve mentored peers and fostered inclusive learning environments.
 
 Outside academics, I’ve led teams in competitions like the **Kaggle LLM-Prompt-Recovery Challenge**, earning a top-3.4% ranking globally.

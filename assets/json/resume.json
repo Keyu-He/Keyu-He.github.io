@@ -118,10 +118,7 @@
       "summary": "Developed an advanced ML model for detecting hate speech, achieving 94% accuracy.",
       "startDate": "2023-09-01",
       "endDate": "2023-12-01",
-      "highlights": [
-        "Fine-tuned BERT for classification tasks.",
-        "Enhanced online safety and inclusivity through robust model optimization."
-      ]
+      "highlights": ["Fine-tuned BERT for classification tasks.", "Enhanced online safety and inclusivity through robust model optimization."]
     }
   ],
   "skills": [

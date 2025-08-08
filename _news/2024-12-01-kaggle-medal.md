@@ -11,5 +11,3 @@ The task involved recovering original user prompts from Gemma-generated completi
 We used LoRA for efficient finetuning, and also explored light adversarial attacks, such as appending generic prompts, to game the metric. We ultimately achieving a high similarity score of 0.657, only 0.059 away from the top team.
 
 A fun and rewarding challenge blending research and engineering!
-
-
