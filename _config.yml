@@ -6,6 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Keyu
 middle_name:
 last_name: He
+name_note: (何柯宇)
 email: keyuhe@cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Keyu He's homepage!
@@ -111,8 +112,7 @@ x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: >
-  Note: the best way to reach me is via email or WeChat!
+contact_note: 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
