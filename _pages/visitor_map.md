@@ -3,7 +3,7 @@ layout: page
 permalink: /visitor_map/
 title: Visitor Map
 description: Real-time visitor analytics and geographic distribution
-nav: true
+nav: false
 nav_order: 8
 ---
 
