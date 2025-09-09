@@ -11,7 +11,7 @@ nav_order: 6
 
 ### University of Southern California (USC), Los Angeles, CA
 
-_September 2022 – Present_
+_September 2022 – May 2025_
 
 #### Fall 2022
 
