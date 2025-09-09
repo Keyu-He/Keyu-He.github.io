@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Keyu He",
-    "label": "MIIS Graduate Student, NLP Researcher",
+    "label": "Master in NLP@CMU SCS || NLP Researcher",
     "image": "keyu.jpg",
     "email": "keyuhe@cmu.edu",
     "phone": "(213) 713-2973",
     "url": "https://keyu-he.github.io/",
-    "summary": "Master of Intelligent Information Systems (MIIS) student at Carnegie Mellon University. Previously earned B.S. from USC with double major in Computer Science and Applied & Computational Mathematics. Passionate about socially intelligent AI systems, AI applications in education, and cross-disciplinary AI research.",
+    "summary": "Master of Intelligent Information Systems (MIIS) student at Carnegie Mellon University. Previously earned B.S. from USC with double major in Computer Science and Applied & Computational Mathematics. Passionate about socially intelligent AI systems and human-centered AI evaluation.",
     "location": {
       "city": "Pittsburgh",
       "region": "Pennsylvania",
@@ -24,7 +24,11 @@
       "startDate": "2025-08-01",
       "endDate": "2027-05-01",
       "score": "",
-      "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI."
+      "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI.",
+      "courses": ["Advanced Natural Language Processing (Grade TBD)", 
+        "Introduction to Question Answering (Grade TBD)",
+        "Independent Study in Language Technologies (Grade TBD)",
+        "Directed Study in Language Technologies (Grade TBD)"] 
     },
     {
       "institution": "University of Southern California",
@@ -55,19 +59,19 @@
   ],
   "publications": [
     {
+      "name": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
+      "author": "Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta",
+      "publisher": "Submitted to NeurIPS 2025",
+      "releaseDate": "2025-05",
+      "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image."
+    },
+    {
       "name": "ELI-Why: Evaluating the Pedagogical Utility of LLM Explanations",
       "author": "Brihi Joshi*, <b>Keyu He*</b>, Sahana Ramnath, Sadra Sabouri, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren",
       "publisher": "Findings of ACL 2025",
       "releaseDate": "2025-02",
       "summary": "Evaluate the pedagogical utility of LLMs in tailoring explanations to users with different educational backgrounds.",
       "url": "../assets/pdf/ELI_Why_Evaluating_the_Pe.pdf"
-    },
-    {
-      "name": "Beyond the Text: How Explanation Qualities Influence User Trust in Visual Language Models",
-      "author": "Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta",
-      "publisher": "Submitted to NeurIPS 2025",
-      "releaseDate": "2025-02",
-      "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image."
     },
     {
       "name": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
@@ -132,12 +136,17 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["C++", "Python", "Java", "MySQL", "HTML", "CSS", "JS"]
+      "keywords": ["C++", "Python", "Java", "MySQL", "HTML", "CSS", "JS", "x86-64 Assembly"]
     },
     {
       "name": "Software",
       "level": "",
-      "keywords": ["LaTeX", "Mathematica", "Matlab"]
+      "keywords": ["PyTorch", "Pandas", "NumPy", "Git", "AWS", "LaTeX", "Mathematica", "Matlab"]
+    },
+    {
+      "name": "Areas of Expertise",
+      "level": "",
+      "keywords": ["Machine Learning", "Natural Language Processing (NLP)", "Large Language Models (LLMs)", "Data Science / Data Engineering"]
     },
     {
       "name": "Languages",
