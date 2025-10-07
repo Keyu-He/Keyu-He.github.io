@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+## Course Notes
+
+[MATH 430 (Theory of Numbers)](/assets/pdf/MATH430Notes.pdf) - Student notes from when I took this course
+
 ## Teaching and Grading Experience
 
 ### University of Southern California (USC), Los Angeles, CA
