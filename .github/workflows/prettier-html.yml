@@ -19,7 +19,13 @@ jobs:
         uses: actions/setup-node@v4
 
       - name: Install Prettier
-        run: npm install -g prettier
+        run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+
+      - name: Create Prettier config
+        run: |
+          echo 'plugins: ["@shopify/prettier-plugin-liquid"]' > .prettierrc
+          echo 'printWidth: 150' >> .prettierrc
+          echo 'trailingComma: "es5"' >> .prettierrc
 
       - name: Check for Prettier
         run: npx prettier --version || echo "Prettier not found"
