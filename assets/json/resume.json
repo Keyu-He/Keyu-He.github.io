@@ -23,12 +23,12 @@
       "studyType": "Master's",
       "startDate": "2025-08-01",
       "endDate": "2027-05-01",
-      "score": "",
+      "score": "4.08/4.33",
       "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI.",
-      "courses": ["Advanced Natural Language Processing (Grade TBD)", 
-        "Introduction to Question Answering (Grade TBD)",
-        "Independent Study in Language Technologies (Grade TBD)",
-        "Directed Study in Language Technologies (Grade TBD)"] 
+      "courses": ["Advanced Natural Language Processing (A+)", 
+        "Introduction to Question Answering (A)",
+        "Independent Study in Language Technologies (A)",
+        "Directed Study in Language Technologies (A)"] 
     },
     {
       "institution": "University of Southern California",
@@ -38,7 +38,7 @@
       "studyType": "Bachelor's",
       "startDate": "2021-08-01",
       "endDate": "2025-05-01",
-      "score": "GPA: 3.98/4.00",
+      "score": "3.98/4.00",
       "summary": "Minor in Artificial Intelligence Applications. USC Dornsife Dean's List & USC Viterbi Dean's List (2021-2025). USC Center for Undergraduate Research in Viterbi Engineering (CURVE) fellow with $6,750 in research funding (Spring 2024 - Spring 2025). USC Academic Achievement Award covering $24,000 in tuition.",
       "courses": [
         "Language Models in Natural Language Processing (A)",
