@@ -61,8 +61,8 @@
     {
       "name": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
       "author": "Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta",
-      "publisher": "Submitted to NeurIPS 2025",
-      "releaseDate": "2025-05",
+      "publisher": "Submitted to ACL 2026",
+      "releaseDate": "2026-01",
       "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image."
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
-      "author": "Keyu He*,  Max Li*, and  <b>Joseph Liu*</b>",
+      "author": "Keyu He*, Max Li*, and Joseph Liu*",
       "publisher": "Technical Report",
       "releaseDate": "2023-12",
       "url": "../assets/pdf/Enhancing-Debugging.pdf",
