@@ -25,10 +25,12 @@
       "endDate": "2027-05-01",
       "score": "4.08/4.33",
       "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI.",
-      "courses": ["Advanced Natural Language Processing (A+)", 
+      "courses": [
+        "Advanced Natural Language Processing (A+)", 
         "Introduction to Question Answering (A)",
         "Independent Study in Language Technologies (A)",
-        "Directed Study in Language Technologies (A)"] 
+        "Directed Study in Language Technologies (A)"
+      ] 
     },
     {
       "institution": "University of Southern California",
@@ -43,17 +45,11 @@
       "courses": [
         "Language Models in Natural Language Processing (A)",
         "Applied Machine Learning for Natural Language Processing (A)",
-        "Applications of Machine Learning (A)",
         "Applied Neural Networks (A)",
-        "Introduction to Artificial Intelligence (A)",
         "Capstone: Design and Construction of Large Software Systems (A)",
-        "Software Engineering (A)",
         "Mathematical Statistics (A)",
         "Probability Theory (A)",
-        "Linear Algebra and Differential Equations (A)",
-        "Numerical Methods (A)",
-        "Data Structure and Object-Oriented Design (A)",
-        "Introduction to Algorithms and the Theory of Computing (A-)"
+        "Numerical Methods (A)"
       ]
     }
   ],

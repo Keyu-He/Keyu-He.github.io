@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Course Notes
 
-[MATH 430 (Theory of Numbers)](/assets/pdf/MATH430Notes.pdf) - Student notes from when I took this course
+[MATH 430 (Theory of Numbers)](/assets/pdf/MATH430Notes.pdf) -- Student notes from when I took this course in Fall 2022.
 
 ## Teaching and Grading Experience
 
