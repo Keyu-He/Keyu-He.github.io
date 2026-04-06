@@ -9,17 +9,20 @@ layout: default
           <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
           {{ site.last_name }}
           {% if site.name_note %}
-            <span class="tooltip-text" style="
-              position: absolute;
-              display: none;
-              z-index: 1;
-              top: 0;
-              left: 100%;
-              margin-left: 10px;
-              white-space: nowrap;
-              font-size: 1em;
-              font-weight: normal;
-            ">
+            <span
+              class="tooltip-text"
+              style="
+                position: absolute;
+                display: none;
+                z-index: 1;
+                top: 0;
+                left: 100%;
+                margin-left: 10px;
+                white-space: nowrap;
+                font-size: 1em;
+                font-weight: normal;
+              "
+            >
               <span style="color: inherit;">{{ site.name_note }}</span>
               <span style="color: #6c757d; font-style: italic; margin-left: 8px;">[Kuh-yoo Huh]</span>
             </span>
@@ -29,7 +32,7 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    
+
     <style>
       .name-with-tooltip:hover .tooltip-text {
         display: block !important;
