@@ -57,7 +57,7 @@
     {
       "name": "Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations",
       "author": "Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta",
-      "publisher": "Submitted to ACL 2026",
+      "publisher": "ACL 2026",
       "releaseDate": "2026-01",
       "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image."
     },
