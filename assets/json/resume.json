@@ -67,7 +67,7 @@
       "publisher": "Findings of ACL 2025",
       "releaseDate": "2025-02",
       "summary": "Evaluate the pedagogical utility of LLMs in tailoring explanations to users with different educational backgrounds.",
-      "url": "../assets/pdf/ELI_Why_Evaluating_the_Pe.pdf"
+      "url": "https://arxiv.org/pdf/2506.14200"
     },
     {
       "name": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
@@ -75,7 +75,7 @@
       "publisher": "ICLR 2025",
       "releaseDate": "2025-01",
       "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.",
-      "url": "../assets/pdf/Attributing_Culture_Cond.pdf"
+      "url": "https://arxiv.org/pdf/2412.20760"
     },
     {
       "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
