@@ -59,7 +59,8 @@
       "author": "Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta",
       "publisher": "ACL 2026",
       "releaseDate": "2026-01",
-      "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image."
+      "summary": "We introduce Visual Fidelity and Contrastiveness -- two explanation quality scores that help users more appropriately rely on vision-language model predictions without seeing the image.",
+      "url": "https://arxiv.org/pdf/2509.25844"
     },
     {
       "name": "ELI-Why: Evaluating the Pedagogical Utility of LLM Explanations",
