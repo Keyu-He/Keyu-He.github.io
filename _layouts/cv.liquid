@@ -72,7 +72,13 @@ layout: default
         <div class="card mt-3 p-3">
           <h3 class="card-title font-weight-medium">Resume Preview</h3>
           <div>
-            <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" type="application/pdf" width="100%" height="800px" style="border: none;" />
+            <embed
+              src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+              type="application/pdf"
+              width="100%"
+              height="800px"
+              style="border: none;"
+            >
           </div>
         </div>
       {% endif %}

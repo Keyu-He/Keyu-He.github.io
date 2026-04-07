@@ -23,7 +23,9 @@
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                 {% unless include.limit %}
-                  <p class="news-preview" style="margin: 0.25em 0 0; font-size: 0.9em; color: var(--global-text-color-light);">{{ item.content | strip_html | truncatewords: 50 }}</p>
+                  <p class="news-preview" style="margin: 0.25em 0 0; font-size: 0.9em; color: var(--global-text-color-light);">
+                    {{ item.content | strip_html | truncatewords: 50 }}
+                  </p>
                 {% endunless %}
               {% endif %}
             </td>
