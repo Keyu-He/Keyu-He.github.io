@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: keyu.jpg
+  image: keyu.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>6404 Gates & Hillman Centers</p>
