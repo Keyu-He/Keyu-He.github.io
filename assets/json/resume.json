@@ -23,10 +23,12 @@
       "studyType": "Master's",
       "startDate": "2025-08-01",
       "endDate": "2027-05-01",
-      "score": "4.08/4.33",
+      "score": "4.14/4.33",
       "summary": "Graduate program focusing on intelligent information systems, NLP research, and AI systems. Conducting research on explainable AI and socially intelligible AI.",
       "courses": [
         "Advanced Natural Language Processing (A+)",
+        "Multimodal Machine Learning (A+)",
+        "Prompt Engineering (A+)",
         "Introduction to Question Answering (A)",
         "Independent Study in Language Technologies (A)",
         "Directed Study in Language Technologies (A)"
@@ -141,7 +143,7 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["C++", "Python", "Java", "MySQL", "HTML", "CSS", "JS", "x86-64 Assembly"]
+      "keywords": ["C++", "Python", "Java", "MySQL", "HTML", "CSS", "JS", "TS", "x86-64 Assembly"]
     },
     {
       "name": "Software",
