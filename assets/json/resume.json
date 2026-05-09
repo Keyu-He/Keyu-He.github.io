@@ -97,6 +97,28 @@
       "summary": "Study on improving LLM debugging through prompt engineering techniques. Evaluated few-shot learning and chain-of-thought approaches on GPT-3.5, revealing limitations in current debugging capabilities."
     }
   ],
+  "work": [
+    {
+      "name": "Adobe",
+      "position": "Machine Learning Engineer Intern",
+      "location": "San Jose, CA",
+      "startDate": "2026-05-01",
+      "endDate": "2026-08-01",
+      "summary": "Incoming",
+      "highlights": []
+    },
+    {
+      "name": "CMind",
+      "position": "Data Engineer Intern",
+      "location": "Remote",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "highlights": [
+        "Built a LangChain-based RAG prototype over an internal analytics DB (chunking, embeddings, FAISS indexing/retrieval, LLM answer synthesis) with metadata filters and notebook/API utilities.",
+        "Designed CEO-speech trait metrics and an auto-evaluation pipeline with custom rubrics, achieving Fleiss' κ of 0.89–0.91 against human annotations."
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "LLM Prompt Recovery",
