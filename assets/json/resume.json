@@ -62,7 +62,7 @@
       "publisher": "Preprint",
       "releaseDate": "2026-06",
       "summary": "Social Gym is a benchmark of 21 multi-agent social games with verifiable, objective outcomes; SPaRTan is a training-free self-play and reflect-transfer loop that produces transferable playbooks improving LLM social reasoning across games and models.",
-      "url": "../assets/pdf/EMNLP_2026__Social_Intelligence_in_Verifiable_Games.pdf"
+      "url": "https://arxiv.org/pdf/2608.09128"
     },
     {
       "name": "RECAP: An End-to-End Platform for Capturing, Replaying, and Analyzing AI-Assisted Programming Interactions",
