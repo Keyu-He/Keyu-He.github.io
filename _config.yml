@@ -9,11 +9,12 @@ last_name: He
 name_note: (何柯宇)
 email: keyuhe@cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to Keyu He's homepage!
+  Keyu He is a Master's student in Natural Language Processing at Carnegie Mellon University,
+  researching socially intelligent AI agents and human-centered AI evaluation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Keyu He, natural language processing, NLP, socially intelligent AI, LLM agents, human-centered AI evaluation, Carnegie Mellon University, machine learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: keyu.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -63,8 +64,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -96,7 +97,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: # your Google Scholar ID
+scholar_userid: 2OUsZJQAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -313,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [He]
+  first_name: [Keyu, K.]
 
   style: apa
   locale: en
