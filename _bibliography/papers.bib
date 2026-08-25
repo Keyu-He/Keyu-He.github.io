@@ -7,7 +7,7 @@
   author={Keyu He and Xuhui Zhou and Maarten Sap},
   year={2026},
   journal={Preprint},
-  abstract={Current evaluations for LLMs in multi-agent social interaction settings, where agents must negotiate and collaborate, lag behind other domains with objective ground-truth (e.g. math, logic), instead relying on human ratings or LLM-as-judge scoring, which are subjective, costly, and hard to verify at scale. To address this evaluation gap, we introduce Social Gym, an environment of 21 multi-agent social games where agent performance is verifiable and objective (e.g., Werewolves, Resistance, Spyfall, etc.) organized into five categories along the information-and-communication axes, with a Elo tournament that produces a cross-game leaderboard. Motivated by benchmarking experiments showing limitations of current LLM agents, we propose SPaRTan (Self-Play and Reflect-Transfer), a training-free self-improvement loop where a model plays a game, reflects on its trajectories to produce a transferable playbook, and applies that playbook in subsequent games. Our experiments on GPT-5-mini show that agents armed with a SPaRTan playbook gain on the structurally weaker side of asymmetric hidden-role games, and that the same playbook transfers across games and into weaker student models; the effect is capacity-dependent, however: an open-weights replication with Qwen3-32B is largely null except on Prisoner's Dilemma. Together, Social Gym and SPaRTan offer a reproducible, verifiable foundation for measuring and improving LLM social reasoning without weight updates.},
+  abstract={LLM agents are increasingly deployed in multi-agent social settings where they must cooperate, negotiate, and adapt to other agents. Measuring and improving these social skills is hard because, unlike math or logic, social interaction offers no objective ground truth: evaluations fall back on LLM judges, which are costly, subjective, and noisy, and models get no reliable signal to learn from. To address both, we first introduce Social Gym, an environment of 21 multi-agent social games (e.g., Werewolves, Resistance, Spyfall) whose rule-decided outcomes make agent performance verifiable and objective, with an Elo tournament that produces a cross-game leaderboard. Benchmarking experiments show that while GPT-5-mini tops the leaderboard, no model excels at all games uniformly or in all game roles, pointing to limitations of social reasoning. Motivated by this, we additionally propose SPaRTan (Self-Play and Reflect-Transfer), a training-free self-improvement loop: a model plays a game, reflects on its trajectories and their outcomes to produce a transferable playbook, and applies that playbook in subsequent games. Our results show that SPaRTan playbooks help GPT-5-mini agents level their performance on weaker roles, but largely do not improve Qwen3-32B's performance. Together, Social Gym and SPaRTan offer a reproducible, verifiable foundation for measuring and improving LLM social reasoning without weight updates.},
   selected={true},
   doi={10.48550/arXiv.2608.09128},
   pdf={https://arxiv.org/pdf/2608.09128},
@@ -24,6 +24,7 @@
   selected={true},
   doi={10.48550/arXiv.2605.01104},
   pdf={https://arxiv.org/pdf/2605.01104},
+  html={https://keyu-he.github.io/promptability.github.io/},
   preview={RECAP.png}
 }
 
@@ -37,6 +38,8 @@
   selected={true},
   doi={10.48550/arXiv.2509.25844},
   pdf={https://arxiv.org/pdf/2509.25844},
+  html={https://keyu-he.github.io/VLM_quality_scores.github.io/},
+  slides={https://docs.google.com/presentation/d/1KadwODRKDsAD0K6k4qDMhGo_Bnb1f2pgwgpEPTDKcxY/edit?usp=sharing},
   preview={VLM_Rationales.png}
 }
 
