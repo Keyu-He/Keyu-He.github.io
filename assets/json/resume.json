@@ -112,8 +112,12 @@
       "location": "San Jose, CA",
       "startDate": "2026-05-01",
       "endDate": "2026-08-01",
-      "summary": "Incoming",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "Shipped 5+ agent skills, including a four-skill family outside the team's own domain, through an agent skill generator merged into the team's shared skill repo, which turns rough developer requests into standards-compliant skills, grounding against internal prior art so existing work isn't rebuilt and self-auditing against the agentskills.io spec.",
+        "Developed the systematic quality measure for the team's agent recommendation pipeline, a reference-free 6-dimension rubric combining LLM-as-judge with deterministic checks, reproducible to 0.01–0.05 per-dimension variance across repeated runs and surfacing two systematic weaknesses for the team to act on.",
+        "Took that measure to production across the org, porting it onto the internal GenAI evaluation service as a reusable scorer and staging it end-to-end for two enterprise customers, on a four-stage Databricks pipeline built to run it."
+      ]
     },
     {
       "name": "CMind",
@@ -128,6 +132,17 @@
     }
   ],
   "projects": [
+    {
+      "name": "VLM Hallucination Mitigation",
+      "summary": "Training-free latent reflection for vision-language models, at Carnegie Mellon University.",
+      "highlights": [
+        "Built a training-free latent reflection module that monitors decoding entropy and injects reflection steps when the model is uncertain.",
+        "Benchmarked against DAMO, VCD, OPERA, and DeGF on POPE/RePOPE/MMBench across LLaVA-1.5-7B, InstructBLIP-7B, and Qwen2-VL-7B.",
+        "On RePOPE, raised LLaVA-1.5-7B accuracy from 84.0% to 90.3% with the lowest calibration error (ECE 0.028) among all methods compared."
+      ],
+      "startDate": "2026-02",
+      "endDate": "2026-04"
+    },
     {
       "name": "LLM Prompt Recovery",
       "summary": "Developed a system to recover user prompts using fine-tuned Mixtral models, achieving top 3.4% in a Kaggle competition.",
@@ -183,7 +198,13 @@
     {
       "name": "Areas of Expertise",
       "level": "",
-      "keywords": ["Machine Learning", "Natural Language Processing (NLP)", "Large Language Models (LLMs)", "Data Science / Data Engineering"]
+      "keywords": [
+        "Machine Learning",
+        "Natural Language Processing (NLP)",
+        "Large Language Models (LLMs)",
+        "Vision Language Models (VLMs)",
+        "Data Science / Data Engineering"
+      ]
     },
     {
       "name": "Languages",
@@ -192,6 +213,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "USC CURVE Research Fellowship",
+      "date": "2025-05",
+      "awarder": "USC Viterbi School of Engineering",
+      "summary": "Awarded in four terms (S24, Su24, F24, S25); total funding $6,750."
+    },
     {
       "title": "Silver Medal, Kaggle Competition",
       "date": "2024-04",
