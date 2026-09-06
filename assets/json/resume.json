@@ -130,6 +130,28 @@
       ]
     }
   ],
+  "teaching": [
+    {
+      "name": "Carnegie Mellon University, Language Technologies Institute",
+      "position": "Graduate Teaching Assistant, 11-711 Advanced Natural Language Processing",
+      "location": "Pittsburgh, PA",
+      "startDate": "2026-08-01",
+      "highlights": [
+        "Supporting a graduate NLP research course covering modeling and learning algorithms and culminating in an original research project."
+      ]
+    },
+    {
+      "name": "University of Southern California",
+      "position": "Teaching & Grading Assistant",
+      "location": "Los Angeles, CA",
+      "startDate": "2022-08-01",
+      "endDate": "2025-05-01",
+      "highlights": [
+        "Coordinated logistics and grading for two computer science courses (CSCI-102 and CSCI-360), serving approximately 300 students per term.",
+        "Led weekly office hours and discussions for approximately 20 students, clarifying concepts and providing feedback on assignments."
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "VLM Hallucination Mitigation",

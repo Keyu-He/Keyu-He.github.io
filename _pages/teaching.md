@@ -9,13 +9,23 @@ nav_order: 6
 
 ## Course Notes
 
-[MATH 430 (Theory of Numbers)](/assets/pdf/MATH430Notes.pdf) -- Student notes from when I took this course in Fall 2022.
+[MATH 430 (Theory of Numbers)](/assets/pdf/MATH430Notes.pdf): Notes I prepared and shared with the class as the professor-appointed class notetaker in Fall 2022.
 
 ## Teaching and Grading Experience
 
+### Carnegie Mellon University (CMU), Pittsburgh, PA
+
+_August 2026 – Present_
+
+#### Fall 2026
+
+- **Graduate Teaching Assistant**:
+  - _11-711: Advanced Natural Language Processing_
+  - Supporting a graduate NLP research course covering modeling and learning algorithms and culminating in an original research project.
+
 ### University of Southern California (USC), Los Angeles, CA
 
-_September 2022 – May 2025_
+_August 2022 – May 2025_
 
 #### Fall 2022
 

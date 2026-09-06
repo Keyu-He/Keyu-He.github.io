@@ -38,6 +38,6 @@ I am passionate about **_socially intelligent AI agents_** that can reason about
 
 ### Beyond Research
 
-As a Course Producer and grader for multiple computer science and math courses, I’ve mentored peers and fostered inclusive learning environments.
+I currently serve as a Graduate Teaching Assistant for CMU's 11-711 Advanced Natural Language Processing. Previously, as a Course Producer and grader for computer science and mathematics courses at USC, I mentored students through office hours, discussions, and assignment feedback.
 
 Outside academics, I’ve led teams in competitions like the **Kaggle LLM-Prompt-Recovery Challenge**, earning a top-3.4% ranking globally.
