@@ -104,6 +104,66 @@
       "summary": "Study on improving LLM debugging through prompt engineering techniques. Evaluated few-shot learning and chain-of-thought approaches on GPT-3.5, revealing limitations in current debugging capabilities."
     }
   ],
+  "research_experience": [
+    {
+      "name": "Carnegie Mellon University; with Prof. Maarten Sap",
+      "position": "Social Gym and SPaRTan",
+      "startDate": "2026",
+      "endDate": "",
+      "highlights": [
+        "Built Social Gym, a Python, game-agnostic N-agent environment with finite-state game logic, partial observability, and rule-defined rewards across 21 games, enabling reproducible multi-turn evaluation without LLM judges.",
+        "Ran role-balanced tournaments for seven closed- and open-weight LLMs across 17 competitive and four cooperative games, covering 560+ episodes per model; fit Bradley–Terry/Elo ratings and role-conditioned capability profiles.",
+        "Designed SPaRTan, a training-free play–reflect–transfer loop and evaluated within-game iteration, cross-game and multigame transfer, and distillation into six student models."
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University; ongoing follow-up to Social Gym with Prof. Maarten Sap",
+      "position": "Social RLVR",
+      "startDate": "2026",
+      "endDate": "",
+      "highlights": ["Developing multi-agent social scenarios with rule-computed outcomes for reinforcement learning with verifiable rewards (RLVR)."]
+    },
+    {
+      "name": "USC DILL Lab; with Profs. Swabha Swayamdipta and Xiang Ren",
+      "position": "Believing without Seeing",
+      "startDate": "2024",
+      "endDate": "2026",
+      "highlights": [
+        "Designed Visual Fidelity and Contrastiveness, two quality scores for VLM explanations, and evaluated their calibration against model correctness on A-OKVQA, VizWiz, and MMMU-Pro.",
+        "Designed and ran Prolific studies with 300 annotations per dataset and condition; the combined scores improved users' correctness judgments by 11.1 percentage points and reduced false belief in incorrect predictions by 15.4 points."
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University; with Prof. Tongshuang Wu",
+      "position": "RECAP",
+      "startDate": "2025",
+      "endDate": "2026",
+      "highlights": [
+        "Built an open-source VS Code instrumentation and replay platform in TypeScript that captures Copilot chats and fine-grained shadow-git edits, links AI suggestions to code, and supports extensible behavior analysis.",
+        "Deployed RECAP with a cloud data pipeline in a Spring 2026 CMU software engineering for machine learning course, capturing 2,034 prompts and 8,239 code edits from 41 students across 406 work sessions."
+      ]
+    },
+    {
+      "name": "USC INK and DILL Labs; with Profs. Xiang Ren and Swabha Swayamdipta",
+      "position": "ELI-Why",
+      "startDate": "2024",
+      "endDate": "2025",
+      "highlights": [
+        "Co-created a 13.4K-question benchmark for testing whether LLM explanations adapt to elementary, high-school, and graduate-level learners; led task, rubric, and prompt design and built the human-study web application.",
+        "Ran two human studies across 811 participants and multi-metric analyses, showing GPT-4 explanations matched their requested grade level 50% of the time versus 79% for human explanations."
+      ]
+    },
+    {
+      "name": "USC INK Lab; with Prof. Xiang Ren",
+      "position": "Attributing Culture-Conditioned Generations to Pretraining Corpora",
+      "startDate": "2024",
+      "endDate": "2024",
+      "highlights": [
+        "Contributed large-scale corpus analysis, Python data engineering, and visualization to MEMOed, a framework for attributing culture-conditioned generations across 110 cultures.",
+        "Built Google APIs survey infrastructure and a routing service that directed participants to culture-specific forms for scalable data collection."
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Adobe",
