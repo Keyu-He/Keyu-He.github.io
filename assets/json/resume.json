@@ -113,9 +113,9 @@
       "endDate": "2026-08-01",
       "summary": "",
       "highlights": [
-        "Shipped 5+ agent skills, including a four-skill family outside the team's own domain, through an agent skill generator merged into the team's shared skill repo, which turns rough developer requests into standards-compliant skills, grounding against internal prior art so existing work isn't rebuilt and self-auditing against the agentskills.io spec.",
+        "Shipped 5+ agent skills via an agent skill generator merged into the team's shared skill repo, turning rough developer requests into standards-compliant skills grounded in internal prior art and self-audited against the agentskills.io spec.",
         "Developed the systematic quality measure for the team's agent recommendation pipeline, a reference-free 6-dimension rubric combining LLM-as-judge with deterministic checks, reproducible to 0.01–0.05 per-dimension variance across repeated runs and surfacing two systematic weaknesses for the team to act on.",
-        "Took that measure to production across the org, porting it onto the internal GenAI evaluation service as a reusable scorer and staging it end-to-end for two enterprise customers, on a four-stage Databricks pipeline built to run it."
+        "Took that measure to production across the org: ported it onto the internal GenAI evaluation service as a reusable scorer and staged it end-to-end for two enterprise customers, on a four-stage Databricks pipeline built to run it."
       ]
     },
     {
