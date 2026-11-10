@@ -56,11 +56,11 @@
   ],
   "publications": [
     {
-      "name": "Social Gym and SPaRTan: Benchmarking and Improving LLM Social Reasoning via Multi-Agent Game Tournaments",
+      "name": "SocialGym: Evaluating LLM Social Intelligence through Verifiable Multi-Agent Games",
       "author": "Keyu He, Xuhui Zhou, Maarten Sap",
       "publisher": "Preprint",
       "releaseDate": "2026-08",
-      "summary": "Social Gym is a benchmark of 21 multi-agent social games with verifiable, objective outcomes; SPaRTan is a training-free self-play and reflect-transfer loop that produces transferable playbooks improving LLM social reasoning across games and models.",
+      "summary": "SocialGym is a benchmark of 22 multi-agent social games with outcomes decided by game rules; an Elo tournament rates ten LLMs in every game and role without an LLM judge.",
       "url": "https://arxiv.org/pdf/2608.09128"
     },
     {
@@ -107,17 +107,17 @@
   "research_experience": [
     {
       "name": "Carnegie Mellon University; with Prof. Maarten Sap",
-      "position": "Social Gym and SPaRTan",
+      "position": "SocialGym",
       "startDate": "2026",
       "endDate": "",
       "highlights": [
-        "Built Social Gym, a Python, game-agnostic N-agent environment with finite-state game logic, partial observability, and rule-defined rewards across 21 games, enabling reproducible multi-turn evaluation without LLM judges.",
-        "Ran role-balanced tournaments for seven closed- and open-weight LLMs across 17 competitive and four cooperative games, covering 560+ episodes per model; fit Bradley–Terry/Elo ratings and role-conditioned capability profiles.",
-        "Designed SPaRTan, a training-free play–reflect–transfer loop and evaluated within-game iteration, cross-game and multigame transfer, and distillation into six student models."
+        "Built SocialGym, a Python, game-agnostic N-agent environment with finite-state game logic, partial observability, and rule-defined rewards across 22 games, enabling reproducible multi-turn evaluation without LLM judges.",
+        "Ran role-balanced tournaments for ten closed- and open-weight LLMs across 18 competitive and four cooperative games, covering 1,228 episodes per model; fit Bradley–Terry/Elo ratings and role-conditioned capability profiles.",
+        "Designed SPaRTan, a training-free play–reflect–transfer loop, and compared it with Self-Refine, Reflexion, and generic game advice across within-game iteration and cross-game transfer."
       ]
     },
     {
-      "name": "Carnegie Mellon University; ongoing follow-up to Social Gym with Prof. Maarten Sap",
+      "name": "Carnegie Mellon University; ongoing follow-up to SocialGym with Prof. Maarten Sap",
       "position": "Social RLVR",
       "startDate": "2026",
       "endDate": "",
