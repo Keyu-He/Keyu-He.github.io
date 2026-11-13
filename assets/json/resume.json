@@ -4,7 +4,6 @@
     "label": "Master in NLP@CMU SCS || NLP Researcher",
     "image": "keyu.png",
     "email": "keyuhe@cmu.edu",
-    "phone": "(213) 713-2973",
     "url": "https://keyu-he.github.io/",
     "summary": "Master of Intelligent Information Systems (MIIS) student at Carnegie Mellon University. Previously earned B.S. from USC with double major in Computer Science and Applied & Computational Mathematics. Passionate about socially intelligent AI systems and human-centered AI evaluation.",
     "location": {
@@ -94,14 +93,6 @@
       "releaseDate": "2025-04",
       "summary": "This paper introduces MEMOed, a framework to analyze whether AI generations are driven by memorization or generalization, with a focus on cultural symbols.",
       "url": "https://arxiv.org/pdf/2412.20760"
-    },
-    {
-      "name": "Enhancing Debugging Skills of LLMs with Prompt Engineering",
-      "author": "Keyu He*, Max Li*, and Joseph Liu*",
-      "publisher": "Technical Report",
-      "releaseDate": "2023-12",
-      "url": "../assets/pdf/Enhancing-Debugging.pdf",
-      "summary": "Study on improving LLM debugging through prompt engineering techniques. Evaluated few-shot learning and chain-of-thought approaches on GPT-3.5, revealing limitations in current debugging capabilities."
     }
   ],
   "research_experience": [
