@@ -55,6 +55,13 @@
   ],
   "publications": [
     {
+      "name": "Exploring Multi-Player Social Games as Verifiable Training Grounds for LLMs",
+      "author": "Keyu He, Michael Li, Jiarui Liu, Mingqian Zheng, Koichi Onoue, Tongshuang Wu, Maarten Sap",
+      "publisher": "Preprint",
+      "releaseDate": "2026-11",
+      "summary": "Training Qwen3 models with RLVR on the rule-decided outcomes of three hidden-role social games beats prompting and SFT, and the gains carry over to held-out games, unseen opponents, and a 17-game leaderboard."
+    },
+    {
       "name": "SocialGym: Evaluating LLM Social Intelligence through Verifiable Multi-Agent Games",
       "author": "Keyu He, Xuhui Zhou, Maarten Sap",
       "publisher": "Preprint",
@@ -108,11 +115,15 @@
       ]
     },
     {
-      "name": "Carnegie Mellon University; ongoing follow-up to SocialGym with Prof. Maarten Sap",
-      "position": "Social RLVR",
+      "name": "Carnegie Mellon University; follow-up to SocialGym with Prof. Maarten Sap",
+      "position": "Social Games as Verifiable Training Grounds",
       "startDate": "2026",
       "endDate": "",
-      "highlights": ["Developing multi-agent social scenarios with rule-computed outcomes for reinforcement learning with verifiable rewards (RLVR)."]
+      "highlights": [
+        "Trained Qwen3 models (1.7B, 4B, 32B) with SFT and multi-turn GRPO on three hidden-role games, using only rule-decided win/loss outcomes as the reward (no LLM judge); built single-seat, whole-team, and self-play training setups with LoRA and vLLM rollouts.",
+        "Raised Qwen3-4B's win rate against the stronger Gemma-3-27B from 57% to 81% on training games and from 40% to 54% on held-out games, beyond the strongest prompting baseline; trained models gained 39–80 Elo on a 17-game leaderboard, with the 32B model second only to GPT-5-mini.",
+        "Analyzed how play changes during training with rule-based log metrics, verified LLM speech labels, SOTOPIA-EVAL, and AI-LieDar, finding learned vote coordination, a shift toward unfalsifiable deception, and copying-driven overfitting."
+      ]
     },
     {
       "name": "USC DILL Lab; with Profs. Swabha Swayamdipta and Xiang Ren",
