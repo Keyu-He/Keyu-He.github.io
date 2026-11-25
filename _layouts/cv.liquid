@@ -97,6 +97,8 @@ layout: default
                 Teaching Experience
               {% elsif data[0] == 'research_experience' %}
                 Research Experience
+              {% elsif data[0] == 'service' %}
+                Service
               {% else %}
                 {{ data[0] | capitalize }}
               {% endif %}
@@ -113,6 +115,8 @@ layout: default
                   {% include resume/work.liquid %}
                 {% when 'research_experience' %}
                   {% include resume/work.liquid %}
+                {% when 'service' %}
+                  {% include resume/volunteer.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}

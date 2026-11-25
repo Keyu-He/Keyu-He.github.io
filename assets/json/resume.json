@@ -59,7 +59,8 @@
       "author": "Keyu He, Michael Li, Jiarui Liu, Mingqian Zheng, Koichi Onoue, Tongshuang Wu, Maarten Sap",
       "publisher": "Preprint",
       "releaseDate": "2026-11",
-      "summary": "Training Qwen3 models with RLVR on the rule-decided outcomes of three hidden-role social games beats prompting and SFT, and the gains carry over to held-out games, unseen opponents, and a 17-game leaderboard."
+      "summary": "Training Qwen3 models with RLVR on the rule-decided outcomes of three hidden-role social games beats prompting and SFT, and the gains carry over to held-out games, unseen opponents, and a 17-game leaderboard.",
+      "url": "https://arxiv.org/pdf/2611.31821"
     },
     {
       "name": "SocialGym: Evaluating LLM Social Intelligence through Verifiable Multi-Agent Games",
@@ -121,7 +122,7 @@
       "endDate": "",
       "highlights": [
         "Trained Qwen3 models (1.7B, 4B, 32B) with SFT and multi-turn GRPO on three hidden-role games, using only rule-decided win/loss outcomes as the reward (no LLM judge); built single-seat, whole-team, and self-play training setups with LoRA and vLLM rollouts.",
-        "Raised Qwen3-4B's win rate against the stronger Gemma-3-27B from 57% to 81% on training games and from 40% to 54% on held-out games, beyond the strongest prompting baseline; trained models gained 39–80 Elo on a 17-game leaderboard, with the 32B model second only to GPT-5-mini.",
+        "Raised Qwen3-4B's win rate against the stronger Gemma-3-27B from 33% to 81% on training games and from 39% to 54% on held-out games, beyond the strongest prompting baseline; trained models gained 39–80 Elo on a 17-game leaderboard, with the 32B model second only to GPT-5-mini.",
         "Analyzed how play changes during training with rule-based log metrics, verified LLM speech labels, SOTOPIA-EVAL, and AI-LieDar, finding learned vote coordination, a shift toward unfalsifiable deception, and copying-driven overfitting."
       ]
     },
@@ -212,6 +213,15 @@
         "Coordinated logistics and grading for two computer science courses (CSCI-102 and CSCI-360), serving approximately 300 students per term.",
         "Led weekly office hours and discussions for approximately 20 students, clarifying concepts and providing feedback on assignments."
       ]
+    }
+  ],
+  "service": [
+    {
+      "organization": "3rd Social Simulation with LLMs Workshop: From Proxies to Populations @ AAAI 2027",
+      "position": "Reviewer",
+      "url": "https://sites.google.com/view/social-sims-with-llms/",
+      "startDate": "2026-11-01",
+      "endDate": "2026-12-01"
     }
   ],
   "projects": [
